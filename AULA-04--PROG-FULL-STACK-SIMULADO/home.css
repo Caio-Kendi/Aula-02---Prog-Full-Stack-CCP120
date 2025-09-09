@@ -1,0 +1,58 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+}
+
+.subhead{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.apps{
+    display: flex;
+    justify-content: flex-end;
+    align-content: space-between;
+    
+}
+.apps div{
+    
+}
+
+
+.Festival{
+    text-align: center;
+    color: red;
+}
+
+.imagens{
+    display: flex;
+    flex-wrap: column wrap;
+    
+}
+
+
+.carro{
+    margin: 50px;
+}
+
+.textocarro{
+    background-color: red;
+    color: white;
+    flex-flow: column wrap;
+}
+
+.textomariene1{
+color: red;
+
+}
+
+
+
+.textoreporter1{
+    color: red;
+}
+
+.textoreporter2{
+
+}
